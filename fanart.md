@@ -15,3 +15,9 @@ All the art I made!
 
 ###### Aight!
 ![](https://github.com/Sylveondev/Sylveondev.github.io/raw/master/images/fanart/aight.png)
+
+###### Discozombieaydin
+![](https://github.com/Sylveondev/Sylveondev.github.io/raw/master/images/fanart/disco.png)
+
+###### Undertale57821
+![](https://github.com/Sylveondev/Sylveondev.github.io/raw/master/images/fanart/undertale.png)
