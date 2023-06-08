@@ -9,3 +9,9 @@ All the art I made!
 
 ###### Sylvest/K3V1N (by Espy Lovehearts)
 ![](https://github.com/Sylveondev/Sylveondev.github.io/raw/master/images/fanart/sylvest.png)
+
+###### Leafy the Foliage
+![](https://github.com/Sylveondev/Sylveondev.github.io/raw/master/images/fanart/foliage.png)
+
+###### Aight!
+![](https://github.com/Sylveondev/Sylveondev.github.io/raw/master/images/fanart/aight.png)
