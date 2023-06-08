@@ -1,3 +1,20 @@
+title: SylveonDev
+
+email: sylveondev@yahoo.com
+
+description: >- # this means to ignore newlines until "baseurl:"
+
+   Hi I'm SylveonDev. I make games, music, and art.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+twitter_username: sylveondev
+
+github_username:  sylveondev
+
+
 remote_theme: pages-themes/slate@v0.2.0
 
 plugins:
