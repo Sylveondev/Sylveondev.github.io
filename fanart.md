@@ -1,29 +1,17 @@
 # Art gallery
-All the art I made!
+From time to time I draw art of my friends. 
 
 ###### Skinnysprite
 ![](https://github.com/Sylveondev/Sylveondev.github.io/raw/master/images/fanart/skinnysprite.png)
-Skinnysprite hosted a pfp contest, so I decided to join.
+Skinnysprite hosted a pfp contest on discord, so I decided to join. They enjoyed the art
 
 ###### SylveonDev
 ![](https://github.com/Sylveondev/Sylveondev.github.io/raw/master/images/fanart/sylveondev.png)
-Hey, that's me!
+Hey, that's me! What am I doing here?
 
-###### Sylvest/K3V1N (by Espy Lovehearts)
+###### Sylvest Dreams
 ![](https://github.com/Sylveondev/Sylveondev.github.io/raw/master/images/fanart/sylvest.png)
-Espy Lovehearts was hosting a pfp contest, and I wanted to join.
-###### Leafy the Foliage
-![](https://github.com/Sylveondev/Sylveondev.github.io/raw/master/images/fanart/foliage.png)
-Clearly pro among them.
+Sylvest Dreams was hosting a pfp contest on Youtube, so I decided to join. I lost obviously but it was still fun to make. The Youtube community post has since been deleted unfortunately.
 
-###### Aight!
-![](https://github.com/Sylveondev/Sylveondev.github.io/raw/master/images/fanart/aight.png)
-Very respectable. I enjoy a lot of their mods.
 
-###### Discozombieaydin
-![](https://github.com/Sylveondev/Sylveondev.github.io/raw/master/images/fanart/disco.png)
-Director of Dimensional Boogie.
-
-###### Undertale57821
-![](https://github.com/Sylveondev/Sylveondev.github.io/raw/master/images/fanart/undertale.png)
-They got the best ideas.
+End of list.
