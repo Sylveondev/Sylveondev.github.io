@@ -17,4 +17,4 @@ My Roblox:<br>
 My Reddit:<br>
 **u/sylveondev**<br>
 
-### View my [art gallery!](fanart)
+More stuff coming soon...
